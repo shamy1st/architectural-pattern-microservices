@@ -1,2 +1,22 @@
-# architectural-pattern-microservices
-Microservices Architectural Pattern
+# Microservices Architectural Pattern
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-topologies.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-api.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-application.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-centralized-messaging.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-pros.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-plan)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-4)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-5)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources)
